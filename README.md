@@ -7,4 +7,4 @@ I like following an idea into unfamiliar territory—learning the tools, buildin
 ## Projects
 
 - **[Atlas](https://github.com/mang-os/atlas)** — A reservation system exploring concurrency, idempotency, and recovery with PostgreSQL and Kafka.
-- **[PayPilot AI](https://github.com/mang-os/PayPilot-AI)** — An agentic commerce demo connecting AI product discovery with checkout policies and payment integration.
+- **[PayPilot AI](https://github.com/mang-os/paypilot-ai)** — An agentic commerce demo connecting AI product discovery with checkout policies and payment integration.
