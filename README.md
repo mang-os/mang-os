@@ -2,9 +2,9 @@
 
 Exploring different technologies and building software across systems, AI, infrastructure, and product.
 
-## Selected work
+I like following an idea into unfamiliar territory—learning the tools, building something, and understanding the decisions along the way.
 
-- **[Atlas](https://github.com/mang-os/atlas)** — Reservation and allocation backend built with Java, Spring Boot and PostgreSQL. Transactional holds, idempotent mutations, an outbox/Kafka audit path, and optional Redis caching. [Verification](https://github.com/mang-os/atlas/blob/main/docs/VERIFICATION.md) · [CI](https://github.com/mang-os/atlas/actions/workflows/verify.yml)
-- **[PayPilot AI](https://github.com/mang-os/PayPilot-AI)** — Agentic commerce demo built with FastAPI, PostgreSQL and Next.js. Server-derived pricing, signed spending mandates, deterministic policy checks, Razorpay integration, and checkout audit trails.
+## Projects
 
-The repositories document implementation scope and limitations. Atlas is a local portfolio implementation; PayPilot AI is a hackathon MVP with mock and configured payment integration paths.
+- **[Atlas](https://github.com/mang-os/atlas)** — A reservation system exploring concurrency, idempotency, and recovery with PostgreSQL and Kafka.
+- **[PayPilot AI](https://github.com/mang-os/PayPilot-AI)** — An agentic commerce demo connecting AI product discovery with checkout policies and payment integration.
