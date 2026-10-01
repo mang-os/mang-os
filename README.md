@@ -1,4 +1,4 @@
-# Tarun K(aka mang)
+# Tarun K
 
 Exploring different technologies and building software across systems, AI, infrastructure, and product.
 
