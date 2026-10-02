@@ -1,3 +1,8 @@
+<!-- PROFILE-CONTRIBUTIONS -->
+<p align="center">
+  <img src="./assets/contribution-calendar.svg" width="860" alt="mang-os public GitHub contribution calendar, refreshed daily." />
+</p>
+
 <p align="center">
   <img src="./assets/profile-terminal.svg" width="860" alt="Tarun K (mang-os) — exploring systems, search, and AI through code." />
 </p>
