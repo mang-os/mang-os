@@ -64,7 +64,7 @@ class CalendarParser(HTMLParser):
 def fetch_calendar():
     today = datetime.now(timezone.utc).date()
     parser = CalendarParser()
-    parser.feed(download(f"https://github.com/users/{USER}/contributions?to={today.isoformat()}").decode("utf-8"))
+    parser.feed(download(f"https://github.com/users/{USER}/contributions").decode("utf-8"))
     days = []
     for day_text, cell in sorted(parser.cells.items()):
         day = date.fromisoformat(day_text)
